@@ -1,0 +1,630 @@
+[
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\nanum.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\nanum.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chongjang.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\chongjang.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\introicon.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\introicon.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_search.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libraryimg.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\libraryimg.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\make_clender.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\make_clender.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zelkova.jpg",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\zelkova.jpg"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\six.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\six.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\border.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\border.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bookicon.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\bookicon.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\calendaricon.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\calendaricon.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chungtwo.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\chungtwo.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\slash.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\slash.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\de9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\de9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\twelve.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\twelve.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\menu.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\menu.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\poongkyung.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\poongkyung.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\communityimg.jpg",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\communityimg.jpg"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ninelogo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\ninelogo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\kraburger.jpg",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\kraburger.jpg"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\five.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\five.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\writeborder.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\writeborder.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\eaticon.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\eaticon.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\freeboardbtn.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\freeboardbtn.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\leechun.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\leechun.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\nine.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\nine.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\shinyoungboklogo.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\shinyoungboklogo.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\de8.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\de8.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\library.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\library.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\seven.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\seven.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\noticeicon.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\noticeicon.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\three.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\three.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\jungang.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\jungang.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\de2.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\de2.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\intro.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\intro.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\de12.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\de12.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\backarrow.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\backarrow.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\logo.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_go.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\seungyun.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\seungyun.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sungbedro.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\sungbedro.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\newtenhundred.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\newtenhundred.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\colleageschedule.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\colleageschedule.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mainskhu.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\mainskhu.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\campusmap.jpg",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\campusmap.jpg"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\schedule.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\schedule.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\one.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\one.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pen.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\pen.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\de5.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\de5.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\border4.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\border4.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\food.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\food.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\border2.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\border2.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ten.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\ten.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_normal.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\de10.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\de10.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\monthdang.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\monthdang.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\de11.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\de11.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\four.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\four.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\logo3.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\logo3.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\smile.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\smile.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ssiicon.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\ssiicon.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\de3.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\de3.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\de6.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\de6.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\logo2.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\logo2.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ilman.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\ilman.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\samjichang.jpg",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\samjichang.jpg"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\readingglasses.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\readingglasses.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\campusintro.jpg",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\campusintro.jpg"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\yulim.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\yulim.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\two.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\two.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\eight.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\eight.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\eleven.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\eleven.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\notice.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\notice.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\campusicon.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\campusicon.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\boardback.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\boardback.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\todaymenu.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\todaymenu.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\campus.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\campus.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\migael.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\migael.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cookicon.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\cookicon.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\gudu.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\gudu.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\de7.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\de7.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\communityicon.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\communityicon.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\de4.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\de4.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\commentsymbol.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\commentsymbol.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chung.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\chung.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\de1.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\de1.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dondon.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\dondon.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\whitegudu.jpg",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\whitegudu.jpg"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\community.png",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\drawable-xxhdpi\\community.png"
+    }
+]

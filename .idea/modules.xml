@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SKHUapp.iml" filepath="$PROJECT_DIR$/SKHUapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidAysncHttpMulitPartModifyLibrary/androidAysncHttpMulitPartModifyLibrary.iml" filepath="$PROJECT_DIR$/androidAysncHttpMulitPartModifyLibrary/androidAysncHttpMulitPartModifyLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sKHUapp/sKHUapp.iml" filepath="$PROJECT_DIR$/sKHUapp/sKHUapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenuSupportV7library/slidingmenuSupportV7library.iml" filepath="$PROJECT_DIR$/slidingmenuSupportV7library/slidingmenuSupportV7library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerindicatorlibrary/viewpagerindicatorlibrary.iml" filepath="$PROJECT_DIR$/viewpagerindicatorlibrary/viewpagerindicatorlibrary.iml" />
+    </modules>
+  </component>
+</project>

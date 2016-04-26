@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/clender"
+    android:scrollbarStyle="outsideOverlay" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/hidden_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:textSize="20px" />
+
+        <Button
+            android:id="@+id/choice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/select"
+            android:textColor="#ffffff" />
+
+        <TableRow
+            android:id="@+id/one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_1_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1교시 "
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_1_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_1_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/two"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_2_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2교시 "
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_2_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_2_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/three"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_3_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3교시 "
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_3_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_3_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/four"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_4_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4교시 "
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_4_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_4_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/five"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_5_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5교시 "
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_5_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_5_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/six"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_6_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="6교시 "
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_6_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_6_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/seven"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_7_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="7교시 "
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_7_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_7_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/eight"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_8_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8교시 "
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_8_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_8_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/nine"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_9_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="9교시 "
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_9_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_9_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/ten"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_10_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10교시"
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_10_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_10_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tenone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_11_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="11교시"
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_11_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_11_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tentwo"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_12_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="12교시"
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_12_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_12_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tenthree"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_13_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="13교시"
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_13_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_13_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tenfour"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_14_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="14교시"
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_14_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_14_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tenfive"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_15_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="15교시"
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_15_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_15_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tensix"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_16_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="16교시"
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_16_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_16_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tenseven"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_17_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="17교시"
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_17_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_17_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/teneight"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_18_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="18교시"
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_18_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_18_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tennine"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_19_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="19교시"
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_19_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_19_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/twenty"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/class_20_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="20교시"
+                android:textColor="#ffffff"
+                android:textSize="20px" />
+
+            <EditText
+                android:id="@+id/class_20_edit1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/class_20_edit2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="100px" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/setting_button"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <Button
+                android:id="@+id/go_main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/back_schedule" />
+
+            <Button
+                android:id="@+id/setting_ok"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/condition" />
+        </TableRow>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/clender"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+<Button
+    android:id="@+id/make_schedule"
+    android:layout_width="130dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/make_clender" />
+
+<Button
+    android:id="@+id/road_schedule"
+    android:layout_width="130dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/load_clender" />
+
+<Button
+    android:id="@+id/delete_schedule"
+    android:layout_width="130dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/delete_clender" />
+
+
+</LinearLayout>

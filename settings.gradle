@@ -1,0 +1,4 @@
+include ':androidAysncHttpMulitPartModifyLibrary'
+include ':slidingmenuSupportV7library'
+include ':viewpagerindicatorlibrary'
+include ':sKHUapp'

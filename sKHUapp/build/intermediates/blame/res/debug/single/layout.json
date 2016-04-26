@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\zelkova_fragment_main.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\zelkova_fragment_main.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\general_notice_item_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\general_notice_item_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\food_fragment_menu.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\food_fragment_menu.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_freeboardwrite.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_freeboardwrite.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_glocalitboard.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_glocalitboard.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\notice_fragment.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\notice_fragment.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zelkova.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_zelkova.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launch.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_launch.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\general_notice_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\general_notice_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\colleageschedule_day.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\colleageschedule_day.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\SKHUapp\\slidingmenuSupportV7library\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\scholarship_notice_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\scholarship_notice_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\zelkova_fragment_menu.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\zelkova_fragment_menu.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collegeschedule.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_collegeschedule.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\food_fragment_main.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\food_fragment_main.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\lesson_notice_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\lesson_notice_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\freeboard_itemview_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\freeboard_itemview_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\freeboardcomment_item_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\freeboardcomment_item_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_freeboardcomment.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_freeboardcomment.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intro.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\zelkova_menu_frame.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\zelkova_menu_frame.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\tablesetting.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\tablesetting.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\timetable.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\timetable.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\actvity_calender1.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\actvity_calender1.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\food_sub_item_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\food_sub_item_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_food.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_food.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_default.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\actionbar_default.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detailcontent.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_detailcontent.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\alert.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\alert.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\intro_super_item_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\intro_super_item_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_community.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_community.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\food_super_itme_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\food_super_itme_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\prj1.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\prj1.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_library.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_library.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\event_notice_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\event_notice_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\colleage_notice_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\colleage_notice_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_introcampus.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_introcampus.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_freeboard.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\activity_freeboard.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\timetablesetting.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\timetablesetting.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\zelkova_list_item.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\zelkova_list_item.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\detailfoodfragment.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\detailfoodfragment.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\intro_sub_item_layout.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\intro_sub_item_layout.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\build\\intermediates\\res\\merged\\debug\\layout\\food_menu_frame.xml",
+        "source": "E:\\anDev\\work\\SKHUapp\\sKHUapp\\src\\main\\res\\layout\\food_menu_frame.xml"
+    }
+]
